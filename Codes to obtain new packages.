@@ -1,3 +1,0 @@
-## Obtaining R Packages
-* The primary location for obtaining R packages is CRAn.
-* You can obtain information about the avaiable packages on CRAN with the available.packages () function
